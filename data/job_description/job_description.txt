@@ -1,0 +1,204 @@
+Start of main content
+Intermediate Full Stack Software Engineer
+AltaML
+4.8
+4.8 out of 5 stars
+Calgary, AB
+Hybrid work
+$90,000–$110,000 a year - Full-time
+AltaML
+4 reviews
+Read what people are saying about working here.
+Job details
+Here’s how the job details align with your profile.
+Pay
+
+$90,000–$110,000 a year
+Job type
+
+Full-time
+&nbsp;
+Location
+Calgary, AB
+&nbsp;
+Full job description
+About Us:
+AltaML is a leading North American applied AI company with extensive experience in building and operationalizing AI software solutions.
+
+We are a company like no other – we believe in making small bets, failing fast, and being better together. We are looking for creative problem-solvers who obsess about the customer to find wins across different industries.
+
+We don’t hire for fit; we hire to add. We are looking for people who play our core values of being: Agile, Gritty Humble, and Happy. If you’re passionate about AI/ML, thrive in a dynamic environment, and want to work with a diverse team of wickedly smart people, we want to hear from you!
+
+We are looking for a Full Stack Software Engineer who builds software in an AI-native way — someone who treats Claude and the latest agentic coding tools as a core part of their craft, not a novelty. In this role, you will contribute to the technical delivery of ML-powered applications across cloud services, APIs, and modern front-end frameworks, with Claude Code, the Claude API, and agentic workflows woven into how you design, build, and ship.
+
+You will be an active contributor within your project pod, shipping features end-to-end, participating in technical design discussions, and growing your ability to translate business requirements into well-engineered solutions. You will take ownership of your work — writing clean, reviewable code, contributing to shared internal frameworks, and continuously developing your fluency with AI-assisted development.
+
+You will thrive in this role if you are a builder who leans on Claude Code to move fast without cutting corners. You write clear specs, review AI-generated code critically, and know when to delegate to an agent versus when to handcraft. You are curious about where LLMs fit (and where they don’t), and you bring a practical, evidence-based instinct to that question.
+
+What You'll Do:
+Full Stack Feature Delivery
+
+Implement features end-to-end across front-end, back-end, and cloud infrastructure layers, taking ownership from design through deployment
+
+Build and integrate RESTful APIs and cloud-hosted services, primarily on Azure, following established architecture patterns and security standards
+
+Develop front-end components using modern JavaScript/TypeScript frameworks, with attention to usability, performance, and maintainability
+
+Write unit, integration, and API tests as a standard part of delivery — not an afterthought — using frameworks appropriate to the stack (xUnit, Pytest, Postman, or similar)
+
+Use Docker for local development, environment parity, and containerized deployments
+
+Manage work in Git with clean branching, meaningful commit history, and effective collaboration with AI agents in the same workflow
+
+LLM Feature Development
+
+Build features that incorporate LLM calls via the Claude API or Azure OpenAI, including prompt design, context management, response handling, and cost-aware API usage
+
+Implement RAG components and tool integrations as part of product features, working within established architecture patterns and contributing to their evolution
+
+Write evaluation harnesses for LLM-powered features: regression tests for prompt behaviour, output quality checks, and agent tool use validation
+
+Document LLM feature behaviour clearly: what the system does, what it does not do, known failure modes, and the guardrails in place
+
+Develop growing awareness of when LLM-in-the-loop is the right architecture decision versus a conventional software approach — and contribute that perspective in design discussions
+
+Technical Design & Problem-Solving
+
+Participate actively in epic-level and feature-level design discussions, contributing well-reasoned proposals backed by research or prototype evidence
+
+Use Claude to accelerate technical research: explore design alternatives, evaluate libraries, and investigate unfamiliar domains quickly — then synthesize findings into a clear recommendation
+
+Identify and flag technical risks within your work scope early, with enough supporting detail for the tech lead or architect to make an informed decision
+
+Produce clear technical documentation: decision records, implementation notes, and design summaries that a future team member can act on
+
+AI-Native Development
+
+Use Claude Code and AI-assisted development tools (Cursor, GitHub Copilot, and similar) as a standard part of the engineering workflow — for prototyping, code generation, refactoring, documentation, and debugging
+
+Write clear, well-structured prompts and development specs that enable AI agents to produce useful, reviewable output — not vague instructions that generate noise
+
+Review AI-generated code with the same rigour as human-authored code: check for correctness, edge cases, security issues, and maintainability before merging
+
+Develop growing fluency in agentic development patterns: structuring repos for agent navigation, decomposing tasks into agent-friendly units, and knowing when human authorship is the right call
+
+Contribute to internal discussions on AI tooling effectiveness — share what is working, what isn’t, and help refine the team’s approach
+
+Collaboration & Growth
+
+Participate in code reviews constructively — give specific, actionable feedback and incorporate peer feedback into your own work without defensiveness
+
+Collaborate closely with ML engineers, data engineers, and product managers within the pod, understanding adjacent work well enough to minimize integration friction
+
+Contribute reusable components, utilities, and internal skills to AltaML’s shared libraries
+
+Engage in sprint ceremonies, stand-ups, and retrospectives as an active team member — raise blockers early, communicate progress clearly, and contribute to continuous improvement
+
+Proactively seek feedback from peers and tech leads to accelerate your own growth toward senior-level ownership and technical leadership
+
+What You Bring:
+Degree or equivalent work experience in Computer Science, Software Engineering, or a related technical discipline
+
+3–5 years of professional full stack development experience, with a track record of shipping production features end-to-end
+
+Hands-on, daily-driver experience using Claude (Claude Code, claude.ai, or the Claude API), Cursor, or GitHub Copilot for real software engineering work — not just occasional use
+
+Strong working experience with cloud services, ideally Azure (Functions, App Service, Blob Storage, Azure OpenAI, or similar)
+
+Proficiency in a modern object-oriented language — C#, Python, TypeScript, or equivalent — with a clear point of view on writing clean, maintainable code
+
+Experience building and consuming RESTful APIs and integrating third-party services
+
+Solid front-end experience with a modern JavaScript/TypeScript framework (React, Vue, Angular, or similar)
+
+Experience writing unit and API tests as a standard part of delivery (xUnit, Pytest, Postman, or similar)
+
+Comfortable with Docker for local development and containerized deployments
+
+Proficiency with Git, including working effectively in a branch-based workflow alongside AI agents
+
+Experience working in an Agile environment with iterative delivery cycles
+
+Strong written and verbal communication skills — able to articulate technical decisions clearly to peers and participate confidently in client-facing discussions
+
+Nice to Have's:
+Experience integrating LLM APIs (Claude, OpenAI, Azure OpenAI) into product features, including prompt design and cost management
+
+Exposure to RAG architectures, vector databases, or tool-augmented LLM workflows
+
+Familiarity with agentic frameworks (LangChain, LangGraph, Autogen, or similar)
+
+Experience writing evaluation harnesses or regression tests for LLM-powered features
+
+Exposure to CI/CD pipelines and automated deployment workflows (Azure DevOps, GitHub Actions, or similar)
+
+Prior experience in a consulting, applied AI, or client-delivery environment
+
+Contributions to open-source projects or internal platforms
+
+Responsible AI (RAI)
+AltaML employees, contractors, and associates must be trained and well-versed in the importance of Responsible AI and empowered to enact RAI principles by developing and deploying AI solutions. They should also be empowered to raise and escalate RAI concerns as required.
+
+AltaML is responsible for elevating public discourse and awareness of AI through open, transparent communications with the broader public.
+
+Equal Opportunities
+AltaML is dedicated to fostering a safe, diverse, and inclusive workplace as an equal-opportunity employer. We welcome applications from qualified individuals of all backgrounds, encompassing ethnicity, religion, disability status, gender identity, sexual orientation, family status, age, nationality, and educational backgrounds. If you are invited for an interview and require accommodations during the interview process, please don’t hesitate to let us know.
+
+AltaML acknowledges that its head office is located on Treaty 6 territory, and respects the histories, languages, and cultures of First Nations, Métis, Inuit, and all First Peoples of Canada, whose presence continues to enrich our vibrant community.
+
+We Look for A-Players Who:
+Express our core values
+Are hungry for knowledge
+Want to learn new skills
+Are respectful
+Collaborate with others across the whole company
+Share knowledge with coworkers
+Educate and promote AI and ML concepts both internally and externally
+Have a high work ethic and are self-motivated
+
+Our Perks:
+\uD83C\uDF34Uncapped Vacation - For all full time, permanent employees. Seriously, take the time you need - when you need it.
+\uD83D\uDE80Make an Impact - Witness the impact your work contribution has on the success of our company.
+\uD83D\uDC69\uD83C\uDFFF‍\uD83D\uDCBBWorking with PhD and Master Level Colleagues - Endless conversations around the latest in Machine Learning and Applied AI.
+\uD83E\uDE7ACompetitive Benefits - For all full time, permanent employees.
+\uD83C\uDFE2 Office as a Resource - Hybrid work environment with state-of-the-art office spaces that ignite collaboration.
+Big Slack Energy - IYKYK.
+
+Our Culture:
+You will be working in a high-paced environment focused on creating unique ML solutions to problems across multiple industries to generate impactful value. You will be working at a company with employees who have multiple years of industrial and academic experience in data science, software engineering, product development, and machine learning fields.
+You will be able to experience a collaborative company culture, which means we believe in working hard, getting the job done, and enjoying the group social on Fridays. You’ll also get flexibility in where you work, what hours you work, how much vacation you take, and what you wear. We expect hard work but respect work/life balance.
+
+Core Values:
+At AltaML, we are driven by our core values. We believe that by embodying these values in everything we do, we will exceed our customer’s expectations while creating a positive and empowering work environment for our team members. We are dedicated to living our values and strive to make them the foundation for our success.
+
+Gritty - We are entrepreneurial, determined, and resilient, pushing through challenges to achieve our goals.
+
+Agile - We make decisions based on “little bets” creating a safe space to take risks. We embrace an interactive process, allowing ideas to fail quickly or be scaled iteratively. Together, we continuously refine and improve our approach to reach the desired outcome.
+
+Humble - We listen to data, embrace new ideas, admit limitations and take ownership to solve problems. We constantly push ourselves to improve and excel.
+
+Happy - We ignite passion and purpose by fostering a dynamic work environment. We encourage tap dancing to work, common sense over rules, empowering team members to find joy in their contributions, and being your authentic self.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+&nbsp;
+&nbsp;
+&nbsp;
+Full Stack Developer jobs in Calgary, AB
+Jobs at AltaML in Calgary, AB
+Full Stack Developer salaries in Calgary, AB
+Hiring Lab
+Career advice
+Browse jobs
+Browse companies
+Salaries
+Indeed Events
+Work at Indeed
+Countries
+About
+Help
+ESG at Indeed
+© 2026 Indeed
+Accessibility at Indeed
+Privacy Centre and Ad Choices
+Terms
