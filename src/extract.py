@@ -1,6 +1,5 @@
 import pdfplumber
 
-with pdfplumber.open("../data/resumes/Hunter Halvorson - Resume.pdf") as pdf:
-  text = "\n".join(page.extract_text() for page in pdf.pages)
-
-print(text)
+def extract_pdf(pdf_path: str) -> str:
+    with pdfplumber.open(pdf_path) as pdf:
+        return "\n".join(page.extract_text() or "" for page in pdf.pages)
