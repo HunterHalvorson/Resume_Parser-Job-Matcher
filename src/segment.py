@@ -1,3 +1,4 @@
+# Common headers
 SECTION_HEADERS = [
     # Contact / Top of resume
     "contact",
@@ -88,21 +89,36 @@ SECTION_HEADERS = [
     "references",
 ]
 
-def segment(resume_text : str=None) -> dict:
+"""
+  Function Name: Segment
+  Function Params: resume_text (str), text associated with a resume
+  Function Return: dictionary of headers as the key, and the lines associated with the header
+"""
+def segment(resume_text : str) -> dict:
 
+  # dictionary to old the return, and the most recent header that has been seen
   segment_dictionary, recent_header = {}, "header"
+  # bucket at the beginning to handle all information above the first header
   segment_dictionary["header"] = []
 
+  # loop through each line in the resume text
   for line in resume_text.splitlines():
+    # clean the line by lowering text and stripping white space
     cleaned_line = line.lower().strip()
+    # if the cleaned line is a common header, then we need to add a new key, val pair
     if cleaned_line in SECTION_HEADERS:
+      # update the most recent seen header
       recent_header = cleaned_line
+      # update the segment dictionary with the following: (new header : [])
       segment_dictionary[recent_header] = [] 
+      # loop to the next line
       continue
     
-    if not recent_header == "":
-      segment_dictionary[recent_header].append(line)
+    # if continue is not run, then we have a value associated with the most recent header
+    # append that value
+    segment_dictionary[recent_header].append(line)
 
+  # return the created dictionary
   return segment_dictionary
 
 
